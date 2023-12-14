@@ -24,7 +24,7 @@
         },
         {
             "key": "TOKEN设置",
-            "name": "❇️┃阿里┃设置",
+            "name": "🥏┃阿里┃设置",
             "type": 3,
             "api": "csp_KungFu404",
             "searchable": 0,
@@ -34,7 +34,7 @@
         },
         {
             "key": "阿里夸克配置",
-            "name": "✳️┃多线┃配置",
+            "name": "🥏┃多线┃配置",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
@@ -101,7 +101,7 @@
         },
         {
             "key": "wobg",
-            "name": "👨‍🎓┃玩偶┃表哥",
+            "name": "🤠┃玩偶┃表哥",
             "type": 3,
             "api": "csp_Wobg",
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/token.json$$$https://wobge.run.goorm.io$$$1",
