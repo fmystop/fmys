@@ -86,7 +86,7 @@
             "changeable": 0,
             "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
-            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;8a3584c3608a5412fb02a769ab3886bb"
         },
         {
             "key": "PG玩偶弹幕版",
@@ -137,7 +137,7 @@
             "quickSearch": 1,
             "playerType": 2,
             "filterable": 1,
-            "ext": "nbOdUoFXWvBmYlNj/qG8q6ytWFIZwtQPtFFI3cwHTOjM7FKVzTbwY0UHQEImlWb/pHq5gMm6LS2HhJI1m5+/s20tWUHsfJ1BIc4rlkWL5xqOQ/EhgcwCwcKi7ECmsFCBAxb69vZB0qXeElk+GDnHEPxoiB3EqjFfAJ88lClO/fKiZKGBnTdyRVG8VAvmercLgiklQwl6jSHVHanEdkZhMj2jIUEKsVeBWOocRzhJ/7457CvmQd/kLyTabYHJ+jrT7m4iVCnGDL7Aw5W+yeOF8FoH2zfTBBARd0o/8ACk+C7pbFTHI3HbjgiBWatiYevYz8buFQdxmSyXA1kgq5hi8WQ5f/STXW4vtO2ZfbVvEHE4T4MKyb1Cs9Hd0daU/Hb1dukLo9sV7fIisMWkr0UuDvYJJMq6xBU5vnFqxYwp59NsgGK/lc6P7oYWERiZWW6Oe/aVFSapfWILTqV1/UBrsjmgtK8XZTvY4hWh0khKyxwpdyQkQ1JzXfB+CHtM3cPXMKEol3PP9XoMLy4K93+/AH2ty15mcmpBfzip4mZmy8r0g+yV8vqaanhRcBDEvZMy0SgWW59YgbavdsNm7TeIrs/WasVtLrLeRPn5jvlc/Q4FXfx320XO3LI0jMqA0f++gQjCUvfsB3wdi29Sv7NYtMqj8ltg23bzuHg2lfZG+nM8=$$$null$$$1"
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=$$$null$$$1"
         },
         {
             "key": "樱花",
@@ -331,13 +331,13 @@
         },
         {
             "key": "csp_Nmys",
-            "name": "🧑🏻‍🌾┃农民┃影视",
+            "name": "‍🌾┃农民┃影视",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;8a3584c3608a5412fb02a769ab3886bb",
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
         },
         {
@@ -345,7 +345,7 @@
             "name": "👨🏻‍💼┃厂长┃影视",
             "type": 3,
             "api": "csp_Czsapp",
-            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;8a3584c3608a5412fb02a769ab3886bb",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -436,7 +436,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932",
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;8a3584c3608a5412fb02a769ab3886bb",
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"
         },
         {
@@ -833,24 +833,25 @@
             "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/justlive.js"
         },
         {
-            "key": "huya",
+            "key": "csp_huya",
             "name": "🐯┃虎牙┃直播",
             "type": 3,
-            "playerType": 1,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/huya_open.js",
-            "ext": {
-                "categories": "音乐#王者荣耀#网游竞技#综合手游#科技#旅游#娱乐天地#一起看#颜值#二次元#星秀#原创#单机热游"
-            }
+            "api": "csp_XYQHiker",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/xyq.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/huya.json"
         },
         {
-            "key": "douyu",
-            "name": "🐟┃斗鱼┃直播",
+            "key": "csp_douyu",
+            "name": "🦈┃斗鱼┃直播",
             "type": 3,
-            "playerType": 1,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/douyu_open.js",
-            "ext": {
-                "categories": "热门手游#王者荣耀#娱乐推荐#颜值#二次元#星秀#音乐#正能量#原创IP#热门游戏#主机游戏#怀旧游戏"
-            }
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/douyu.js"
         },
         {
             "key": "88js",
