@@ -15,7 +15,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🍥┃豆瓣推荐┃FM影视",
+            "name": "👒┃豆瓣推荐┃FM影视",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
@@ -83,9 +83,8 @@
             "type": 3,
             "api": "csp_WoGG",
             "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
             "changeable": 0,
+            "filterable": 1,
             "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹",
             "jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/fty.jar;md5;7f5b55c37dba231f3862cd1a8c8ea932"
         },
@@ -220,16 +219,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://www.bdys03.com/$$$null$$$1"
-        },
-        {
-            "key": "YQKan"，
-            "name": "😎┃一起┃APP",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "哔哩兔",
@@ -1008,34 +997,34 @@
         }
     ],
     "parses": [
-    {
-      "name": "FM影视1号",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
+        {
+            "name": "FM影视1号",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
             "name": "FM影视2号",
             "type": 0,
             "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
@@ -1062,137 +1051,137 @@
                 ]
             }
         },
-            {
-      "name": "FM影视3号",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
-    },
-    {
-      "name": "FM影视4号",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "FM影视5号",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
-      "name": "FM影视6号",
-      "type": 0,
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "FM影视7号",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "leshi",
-          "LS",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": ""
+        {
+            "name": "FM影视3号",
+            "type": 0,
+            "url": "https://jx.777jiexi.com/player/?url="
+        },
+        {
+            "name": "FM影视4号",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "FM影视5号",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url="
+        },
+        {
+            "name": "FM影视6号",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "name": "FM影视7号",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "leshi",
+                    "LS",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": ""
+                }
+            }
+        },
+        {
+            "name": "FM影视8号",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "FM影视9号",
+            "type": 0,
+            "url": "https://ksksl.codjx.com/?url="
+        },
+        {
+            "name": "FM影视10号",
+            "type": 0,
+            "url": "https://byg.ziqj5.shop/?url="
+        },
+        {
+            "name": "FM影视11号",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "FM影视12号",
+            "type": 0,
+            "url": "https://chaxun.truechat365.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "iqiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+        {
+            "name": "FM影视13号",
+            "type": 0,
+            "url": "http://vip.26db.cn/g/?url="
+        },
+        {
+            "name": "FM影视14号",
+            "type": 0,
+            "url": "https://jx.m3u8.pw/?url="
+        },
+        {
+            "name": "FM影视15号",
+            "type": 0,
+            "url": "https://play.86516.tk/OKPlayer/?url="
+        },
+        {
+            "name": "FM影视16号",
+            "type": 0,
+            "url": "https://h5.freejson.xyz/player/?url="
         }
-      }
-    },
-    {
-      "name": "FM影视8号",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "qq",
-          "letv",
-          "sohu",
-          "youku",
-          "mgtv",
-          "bilibili",
-          "wasu",
-          "xigua",
-          "1905"
-        ]
-      }
-    },
-    {
-      "name": "FM影视9号",
-      "type": 0,
-      "url": "https://ksksl.codjx.com/?url="
-    },
-    {
-      "name": "FM影视10号",
-      "type": 0,
-      "url": "https://byg.ziqj5.shop/?url="
-    },
-    {
-      "name": "FM影视11号",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "FM影视12号",
-      "type": 0,
-      "url": "https://chaxun.truechat365.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "iqiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "FM影视13号",
-      "type": 0,
-      "url": "http://vip.26db.cn/g/?url="
-    },
-    {
-      "name": "FM影视14号",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url="
-    },
-    {
-      "name": "FM影视15号",
-      "type": 0,
-      "url": "https://play.86516.tk/OKPlayer/?url="
-    },
-    {
-      "name": "FM影视16号",
-      "type": 0,
-      "url": "https://h5.freejson.xyz/player/?url="
-    }
     ],
     "flags": [
         "youku",
@@ -1454,5 +1443,4 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ]
-
 }
