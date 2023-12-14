@@ -17,10 +17,11 @@
             "key": "豆瓣",
             "name": "💖┃FM影视┃豆瓣推荐",
             "type": 3,
-            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/douban2.js",
+            "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/drpy2.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/douban.js"
         },
         {
             "key": "TOKEN设置",
