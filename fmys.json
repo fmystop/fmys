@@ -43,7 +43,7 @@
                 "type": "rect",
                 "ratio": 1
             },
-            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/tokenm.json"
+            "ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/fmystop/fmys/main/lib/token.json"
         },
         {
             "key": "直播转点播",
