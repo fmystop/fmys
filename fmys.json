@@ -121,6 +121,37 @@
             "timeout": 60
         },
         {
+            "key": "南瓜",
+            "name": "🎃┃南瓜┃影视",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "api": "csp_NanGua",
+            "ext": "null$$$1"
+        },
+        {
+            "key": "河马",
+            "name": "🐴┃河马┃影视",
+            "type": 3,
+            "api": "csp_Hmys",
+            "ext": "https://m.jmzp.net.cn$$$null$$$1"
+        },
+        {
+            "key": "天天",
+            "name": "☘️┃天天┃影视",
+            "type": 3,
+            "api": "csp_TTian",
+            "ext": "http://op.ysdqjs.cn$$$null$$$1"
+        },
+        {
+            "key": "蝴蝶",
+            "name": "🍁┃蝴蝶┃影视",
+            "type": 3,
+            "api": "csp_Hudie",
+            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
+        },
+        {
             "key": "tvbsk",
             "name": "🥇┃TVB┃云播",
             "type": 3,
@@ -288,37 +319,6 @@
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
-        },
-        {
-            "key": "南瓜",
-            "name": "🎃┃南瓜┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "api": "csp_NanGua",
-            "ext": "null$$$1"
-        },
-        {
-            "key": "河马",
-            "name": "🐴┃河马┃影视",
-            "type": 3,
-            "api": "csp_Hmys",
-            "ext": "https://m.jmzp.net.cn$$$null$$$1"
-        },
-        {
-            "key": "天天",
-            "name": "☘️┃天天┃影视",
-            "type": 3,
-            "api": "csp_TTian",
-            "ext": "http://op.ysdqjs.cn$$$null$$$1"
-        },
-        {
-            "key": "蝴蝶",
-            "name": "🍁┃蝴蝶┃影视",
-            "type": 3,
-            "api": "csp_Hudie",
-            "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
         },
         {
             "key": "快看",
